@@ -11,31 +11,31 @@ const Services = () => {
 
     const serviceData = [
         {
-            img: "/stock.jpg",
+            img: "/abituriyent.jpg",
             title: "Abituriyent",
             items: [],
             message: "Hello, I’m interested in your services!"
         },
         {
-            img: "/stock.jpg",
+            img: "/magistr.jpg",
             title: "Magistratura",
             items: [],
             message: "Hello, I’m interested in your services!"
         },
         {
-            img: "/stock.jpg",
+            img: "/dovlet-qullugu.jpg",
             title: "Dövlət Qulluğu",
             items: [],
             message: "Hello, I’m interested in your services!"
         },
         {
-            img: "/stock.jpg",
+            img: "/ingilis-dili.jpg",
             title: "General English və IELTS",
             items: [],
             message: "Hello, I’m interested in your services!"
         },
         {
-            img: "/stock.jpg",
+            img: "/ixtisas-secimi.jpg",
             title: "İxtisas Seçimi",
             items: [],
             message: "Hello, I’m interested in your services!"
