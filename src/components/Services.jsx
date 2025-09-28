@@ -12,57 +12,57 @@ const Services = () => {
     const serviceData = [
         {
             img: "/123.PNG",
-            title: "I,II,III qrup paketləri)",
+            title: "I,II,III qrup paketləri",
             items: [],
-            message: "Hello, I’m interested in your services!"
+            message: "Salam, I,II,III qrup paketləri ilə bağlı məlumat ala bilərəm?"
         },
         {
             img: "/4.PNG",
             title: "IV qrup paketi",
             items: [],
-            message: "Hello, I’m interested in your services!"
+            message: "Salam, IV qrup paketi ilə bağlı məlumat ala bilərəm?"
         },
         {
             img: "/burax.PNG",
-            title: "Buraxılış Paketi",
+            title: "Buraxılış paketi",
             items: [],
-            message: "Hello, I’m interested in your services!"
+            message: "Salam, Buraxılış paketi ilə bağlı məlumat ala bilərəm?"
         },
          {
             img: "/ayrı.PNG",
             title: "Abituriyent Fənləri",
             items: [],
-            message: "Hello, I’m interested in your services!"
+            message: "Salam, Abituriyent Fənləri ilə bağlı məlumat ala bilərəm?"
         },
         {
             img: "/mag.PNG",
             title: "Magistratura",
             items: [],
-            message: "Hello, I’m interested in your services!"
+            message: "Salam, Magistratura paketi ilə bağlı məlumat ala bilərəm?"
         },
         {
             img: "/dq.PNG",
             title: "Dövlət Qulluğu",
             items: [],
-            message: "Hello, I’m interested in your services!"
+            message: "Salam, Dövlət Qulluğu paketi ilə bağlı məlumat ala bilərəm?"
         },
         {
             img: "/ielts.PNG",
             title: "IELTS",
             items: [],
-            message: "Hello, I’m interested in your services!"
+            message: "Salam, IELTS hazırlığı ilə bağlı məlumat ala bilərəm?"
         },
         {
             img: "/general.PNG",
             title: "General English",
             items: [],
-            message: "Hello, I’m interested in your services!"
+            message: "Salam, General English hazırlığı ilə bağlı məlumat ala bilərəm?"
         },
         {
             img: "/ixt.PNG",
             title: "İxtisas Seçimi",
             items: [],
-            message: "Hello, I’m interested in your services!"
+            message: "Salam, İxtisas Seçimi xidməti ilə bağlı məlumat ala bilərəm?"
         },
     ];
 
