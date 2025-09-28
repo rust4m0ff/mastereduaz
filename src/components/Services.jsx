@@ -17,31 +17,31 @@ const Services = () => {
             message: "Hello, I’m interested in your services!"
         },
         {
-            img: "/mag.png",
+            img: "/mag.PNG",
             title: "Magistratura",
             items: [],
             message: "Hello, I’m interested in your services!"
         },
         {
-            img: "/dq.png",
+            img: "/dq.PNG",
             title: "Dövlət Qulluğu",
             items: [],
             message: "Hello, I’m interested in your services!"
         },
         {
-            img: "/ielts.png",
+            img: "/ielts.PNG",
             title: "IELTS",
             items: [],
             message: "Hello, I’m interested in your services!"
         },
         {
-            img: "/general.png",
+            img: "/general.PNG",
             title: "General English",
             items: [],
             message: "Hello, I’m interested in your services!"
         },
         {
-            img: "/ixt.png",
+            img: "/ixt.PNG",
             title: "İxtisas Seçimi",
             items: [],
             message: "Hello, I’m interested in your services!"
