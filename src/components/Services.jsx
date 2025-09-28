@@ -17,19 +17,19 @@ const Services = () => {
             message: "Hello, I’m interested in your services!"
         },
         {
-            img: "/4.jpg",
+            img: "/4.PNG",
             title: "IV qrup paketi",
             items: [],
             message: "Hello, I’m interested in your services!"
         },
         {
-            img: "/burax.jpg",
+            img: "/burax.PNG",
             title: "Buraxılış Paketi",
             items: [],
             message: "Hello, I’m interested in your services!"
         },
          {
-            img: "/ayrı.jpg",
+            img: "/ayrı.PNG",
             title: "Abituriyent Fənləri",
             items: [],
             message: "Hello, I’m interested in your services!"
