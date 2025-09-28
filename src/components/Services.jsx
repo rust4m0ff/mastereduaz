@@ -40,6 +40,12 @@ const Services = () => {
             items: [],
             message: "Hello, I’m interested in your services!"
         },
+                {
+            img: "/ixtisas-secimi.jpg",
+            title: "İxtisas Seçimi",
+            items: [],
+            message: "Hello, I’m interested in your services!"
+        },
     ];
 
     const handleClick = (message) => {
