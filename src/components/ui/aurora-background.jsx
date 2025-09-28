@@ -34,7 +34,7 @@ export const AuroraBackground = ({
               "--blue-500": "#3b82f6",
               "--indigo-300": "#a5b4fc",
               "--violet-200": "#ddd6fe",
-              "--black": "#000",
+              "--black": "#fff",
               "--white": "#fff",
               "--transparent": "transparent"
             }
