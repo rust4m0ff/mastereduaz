@@ -11,8 +11,26 @@ const Services = () => {
 
     const serviceData = [
         {
-            img: "/abituriyent.jpg",
-            title: "Abituriyent",
+            img: "/123.PNG",
+            title: "I,II,III qrup paketləri)",
+            items: [],
+            message: "Hello, I’m interested in your services!"
+        },
+        {
+            img: "/4.jpg",
+            title: "IV qrup paketi",
+            items: [],
+            message: "Hello, I’m interested in your services!"
+        },
+        {
+            img: "/burax.jpg",
+            title: "Buraxılış Paketi",
+            items: [],
+            message: "Hello, I’m interested in your services!"
+        },
+         {
+            img: "/ayrı.jpg",
+            title: "Abituriyent Fənləri",
             items: [],
             message: "Hello, I’m interested in your services!"
         },
